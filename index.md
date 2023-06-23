@@ -2,6 +2,35 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                     |
 |:----|--------------------|----------------|--------------|----------------------------------|
+| 1   | Story Downloader   | 1.1.68         | 78           | [23 Jun 2023](#date-23-jun-2023) |
+
+#### Date `23 Jun 2023`:
+1. **_TG-1160_**: Added PixelGo tools in ViewPost screen
+2. **_TG-1165_**: Added icon to open Instagram app on app bar
+3. **_TG-1167_**: Handled opening of a url in browser from Deeplink notification
+4. **_TG-1159_**: Added Refer and Earn
+5. **_TG-1180_**: Changed UI for hamburger menu for InStore & Story
+6. **_TG-1162_**: Added analytics events for refer n earn & pixel go tools
+7. **_TG-1187_**: Added info tip for collections On Boarding
+8. **_TG-1188_**: Added a red dot notification for refer and earn
+9. **_TG-1190_**: Added The following Events: `ProfileDownload`,`ProfileDownloaded`, `ProfileBatchDownload`, `ProfileBatchDownloaded`
+10. **_TG-1191_**: Added Pixel Go Download Popup
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | InStore            | 2.1.63         | 218          | [23 Jun 2023](#date-23-jun-2023-1) |
+
+#### Date `23 Jun 2023`:
+1. **_TG-1206_**: Fixed anonymous story viewing
+2. **_TG-1207_**: Redirected to post details page after login to Instagram for scraping failed case
+3. **_TG-1208_**: Removed file size from Quality Popup
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                     |
+|:----|--------------------|----------------|--------------|----------------------------------|
 | 1   | InStore            | 2.1.61         | 216          | [20 Jun 2023](#date-20-jun-2023) |
 
 #### Date `20 Jun 2023`:

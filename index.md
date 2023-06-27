@@ -1,5 +1,38 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.69         | 79           | [27 Jun 2023](#date-27-jun-2023)   |
+
+#### Date `27 Jun 2023`:
+1. **_TG-1216_**: Fixed CTA size for rewards in refer earn screen
+2. **_TG-1217_**: Fixed PixelGo tools not visible in dark mode
+3. **_TG-1218_**: Share and action icons on view post screen do not have even spacing
+4. **_TG-1220_**: Coins count getting cut for some devices if count is in 4 digits
+5. **_TG-1221_**: In dark mode in collection info tip `?` is not visible
+6. **_TG-1222_**: Fixed spacing between rewards list and share invite CTA
+7. **_TG-1223_**: Point indicators for Refer & Earn TnC not visible in dark mode
+8. **_TG-1224_**: Changed email templates for Feedback and Review mails
+9. **_TG-1225_**: Removed Refer and Earn popup for first launch case
+10. **_TG-1226_**: Fixed crash when clicked on refer earn in hamburger after turning on dark mode for first launch case
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Collage Maker Go   | 1.0.14         | 20           | [27 Jun 2023](#date-27-jun-2023-1) |
+
+#### Date `27 Jun 2023`:
+1. TG-1219: Fixed Back Issue in StoryMaker screen
+2. Fixed following Crashes from Firebase :
+   - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/38e1ff4495e6663e459a144cfac72ad0?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=6499642300AD00010B24DD6CC93EC545_1827381151548525877)
+   - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/66bfb63f98c683021dce1e9118900f32?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=649902FC00560001589A202048D1ED2E_1827274427542422735)
+   - [Crash 3](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/3ca3e4369e87c147dff9867ade4063db?time=last-seven-days&versions=1.0.13%20(19))
+   - [Crash 4](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/ddbda88c44e0ad2858f56a81b2e4d1db?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=64995C4F034B0001354E9C76005FD341_1827372338692768749)
+   - [Crash 5](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/619f06c164a0f2be0a82df646d7dd0c0?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=649606C2007600014FC4FEC5DB499A47_1826433749664929795)
+
+----------------------------------------------------------------------------------------------------------------------------
+
 |     | App Flavor         | Latest Version | Version Code | Release Date                     |
 |:----|--------------------|----------------|--------------|----------------------------------|
 | 1   | Story Downloader   | 1.1.68         | 78           | [23 Jun 2023](#date-23-jun-2023) |

@@ -2,6 +2,22 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.70         | 80           | [30 Jun 2023](#date-30-jun-2023)   |
+
+#### Date `30 Jun 2023`:
+1. Handled instagram story links starting with `https://www.instagram.com/stories/direct/`
+2. Fixed keyboard opening after closing flow interstitial ad
+3. Fixed dark mode for reward history screen
+4. Fixed Following Crashes & ANRs :
+   - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/b3b6f610cebf86430ceba487ae75059d?time=last-seven-days&versions=1.1.69%20(79)&sessionEventKey=649D4359014700015B23A0E480976335_1828470640074545754)
+   - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/7794b3d38ff3f9188302890038985805?time=last-seven-days&versions=1.1.69%20(79)&sessionEventKey=649D27490299000174200005434BB4F9_1828441392694883477)
+   - [Crash 3](https://console.firebase.google.com/u/0/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/d0edf6e9425176d6dc58bdec84aefa56?time=last-seven-days&sessionEventKey=649D417701880001186B7DD9C11A6995_1828470064608168016)
+   - [Crash 4](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/3e2c931ce1f0f12ba86a81a461303d0c?time=last-seven-days&versions=1.1.69%20(79)&sessionEventKey=649D2590004C00011CA9FD4C21DFF2D1_1828438085949152102)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
 | 1   | Story Downloader   | 1.1.69         | 79           | [27 Jun 2023](#date-27-jun-2023)   |
 
 #### Date `27 Jun 2023`:

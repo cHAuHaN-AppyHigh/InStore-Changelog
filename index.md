@@ -2,9 +2,9 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
-| 1   | Story Downloader   | 1.1.70         | 80           | [30 Jun 2023](#date-30-jun-2023)   |
+| 1   | Story Downloader   | 1.1.72         | 82           | [04 Jul 2023](#date-04-jul-2023)   |
 
-#### Date `30 Jun 2023`:
+#### Date `04 Jul 2023`:
 1. Handled instagram story links starting with `https://www.instagram.com/stories/direct/`
 2. Fixed keyboard opening after closing flow interstitial ad
 3. Fixed dark mode for reward history screen

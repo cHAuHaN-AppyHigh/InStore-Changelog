@@ -1,5 +1,41 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
+|     | App Flavor         | Latest Version | Version Code | Release Date                     |
+|:----|--------------------|----------------|--------------|----------------------------------|
+| 1   | InStore            | 2.1.65         | 224          | [14 Jul 2023](#date-14-jul-2023) |
+
+#### Date `14 Jul 2023`:
+> All changes done on [v2.1.63](#date-23-jun-2023)
+
+1. **_TG-1257_**: Removed Microsoft Clarity & Unused Code
+2. All changes of [v2.1.64](#date-12-jul-2023) below
+   - **_TG-1250_**: Added Revenue Cat and migrated IAP to revenue cat for InStore only
+   - **_TG-1250_**: Added following events: `InitRemoteConfig`, `InitRemoteConfigComplete`, `InitRevenueCat`, `InitRevenueCatComplete`, `LoadInterstitialAd`, `ShowInterstitialAd`, `HomeLaunch`
+   - **_TG-1256_**: Added Coupon redeem feature to IAP screen
+   - **_TG-1256_**: Removed IAP screen(Pro) entry point for coupon users
+   - **_TG-1256_**: Added following events: `CouponRedeemAttempt`, `CouponRedeemSuccess`, `CouponRedeemFailed`
+   - **_TG-1258_**: Removed DP Download fallback to our server using API `/user/{username}`
+   - **_TG-1255_**: Removed CuratedStories
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                     |
+|:----|--------------------|----------------|--------------|----------------------------------|
+| 1   | InStore            | 2.1.64         | 223          | [12 Jul 2023](#date-12-jul-2023) |
+
+#### Date `12 Jul 2023`:
+> All changes done on [v2.1.60](#date-17-may-2023)
+
+1. **_TG-1250_**: Added Revenue Cat and migrated IAP to revenue cat for InStore only
+2. **_TG-1250_**: Added following events: `InitRemoteConfig`, `InitRemoteConfigComplete`, `InitRevenueCat`, `InitRevenueCatComplete`, `LoadInterstitialAd`, `ShowInterstitialAd`, `HomeLaunch`
+3. **_TG-1256_**: Added Coupon redeem feature to IAP screen
+4. **_TG-1256_**: Removed IAP screen(Pro) entry point for coupon users
+5. **_TG-1256_**: Added following events: `CouponRedeemAttempt`, `CouponRedeemSuccess`, `CouponRedeemFailed`
+6. **_TG-1258_**: Removed DP Download fallback to our server using API `/user/{username}`
+7. **_TG-1255_**: Removed CuratedStories
+
+----------------------------------------------------------------------------------------------------------------------------
+
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
 | 1   | Story Downloader   | 1.1.72         | 82           | [04 Jul 2023](#date-04-jul-2023)   |
@@ -39,7 +75,7 @@
 | 1   | Collage Maker Go   | 1.0.14         | 20           | [27 Jun 2023](#date-27-jun-2023-1) |
 
 #### Date `27 Jun 2023`:
-1. TG-1219: Fixed Back Issue in StoryMaker screen
+1. **_TG-1219_**: Fixed Back Issue in StoryMaker screen
 2. Fixed following Crashes from Firebase :
    - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/38e1ff4495e6663e459a144cfac72ad0?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=6499642300AD00010B24DD6CC93EC545_1827381151548525877)
    - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:photo.collage.maker.layout/issues/66bfb63f98c683021dce1e9118900f32?time=last-seven-days&versions=1.0.13%20(19)&sessionEventKey=649902FC00560001589A202048D1ED2E_1827274427542422735)

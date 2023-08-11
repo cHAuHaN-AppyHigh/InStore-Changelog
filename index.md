@@ -1,5 +1,66 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.77         | 87           | [06 Aug 2023](#date-06-aug-2023)   |
+
+#### Date `06 Aug 2023`:
+1. **_TG-1210_**: Changed Url Address bar in Browser Tab
+2. **_TG-1211_**: Changed Anonymous story Popup
+3. **_TG-1212_**: Changed No download available Popup in Browser Tab
+4. **_TG-1213_**: Updated Pro icon in top nav bar
+5. **_TG-1214_**: Updated top nav bar in tabs view screen
+6. **_TG-1227_**: Updated top nav bar for browser homepage
+7. **_TG-1228_**: Added menu options in URl Address bar in Browser Tab
+8. **_TG-1229_**: Added entry point for anonymous stories in Browser Tab
+9. **_TG-1234_**: Updated Browser Tab homepage (Dark Mode)
+10. **_TG-1235_**: Updated Url Address bar in Browser Tab (Dark Mode)
+11. **_TG-1236_**: Updated All tabs screen in Browser Tab (Dark Mode)
+12. **_TG-1238_**: Updated No Download available Popup in Browser Tab
+13. **_TG-1239_**: Updated Anonymous stories Popup
+14. **_TG-1260_**: Updated UI for Hamburger menu in Dark mode
+15. **_TG-1237_**: Updated bottom nav bar colors
+16. **_TG-1244_**: Updated Design for DP Download Screen
+17. **_TG-1209_**: Updated download for PostSaver and added to Collections, Profile, DP, WebView downloads
+18. **_TG-1230_**: Existing post download pop up updated
+19. **_TG-1240_**: Updated UI of download tools in post saver tab
+20. **_TG-1203_**: Added explore feature to post saver tab
+21. **_TG-1231_**: Updated design for collections feature in post saver tab
+22. **_TG-1233_**: Updated flow for collections
+23. **_TG-1247_**: Updated design for Profile download screen
+24. **_TG-1246_**: Updated flow for Profile download screen
+25. **_TG-1251_**: Updated design for Profile download screen (Dark Mode)
+26. **_TG-1245_**: Updated UI for View Post Screen
+27. **_TG-1261_**: New Design sprint events added
+28. **_TG-1201_**: Added storage permission event
+29. **_TG-1267_**: Added Explore Slider
+30. **_TG-1266_**: Used Livedata to load data in downloads tab
+31. **_TG-1275_**: Add events for Explore functionality
+32. **_TG-1271_**: ViewPost open user's profile feature added
+33. **_TG-1274_**: View Post Icons updated
+34. **_TG-1276_**: Preloaded Home/Tools/AllDownloads native ads on SplashScreen
+35. **_TG-1277_**: Removed batch download rewarded ads from profile and collections
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | InStore            | 2.1.67         | 227          | [27 Jul 2023](#date-27-jul-2023)   |
+
+#### Date `27 Jul 2023`:
+1. **_TG-1254_**: Added download support for reels section to JS
+2. **_TG-1254_**: Added auto skip save login info screen by instagram via JS
+3. **_TG-1259_**: Removed `Continue using Facebook` button from login screen
+4. **_TG-1264_**: Changed counter of flow interstitial from 1-4-7 to 2-5-8
+5. **_TG-1263_**: Removed Refer & Earn for Coupon code and lifetime pro users
+6. **_TG-1265_**: Renamed property `hamClicked` to `MenuItem` for `Hamburger` event
+7. **_TG-1262_**: Changed Quality Popup Flow and link detection bottom sheet
+8. **_TG-1269_**: Updated UI for StickyBar and added `NotificationClick` event
+9. **_TG-1272_**: Moved Flow Interstitial ad frequency to remote config
+10. **_TG-1273_**: Moved Quality selection mode to remote config
+
+----------------------------------------------------------------------------------------------------------------------------
+
 |     | App Flavor         | Latest Version | Version Code | Release Date                     |
 |:----|--------------------|----------------|--------------|----------------------------------|
 | 1   | InStore            | 2.1.65         | 224          | [14 Jul 2023](#date-14-jul-2023) |

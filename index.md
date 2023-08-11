@@ -1,3 +1,30 @@
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.78         | 88           | [10 Aug 2023](#date-10-aug-2023)   |
+
+#### Date `10 Aug 2023`:
+> All changes done on [v1.1.74](#date-11-jul-2023)
+
+1. **_TG-1279_**: Added status downloader in tools
+2. **_TG-1280_**: Removed following ads:
+   - Imagine-AI-Rewarded-V3
+   - Grid-Interstitial-V3
+   - Resize-Interstitial-V3
+   - Photo-Collage-Interstitial-V3
+   - PIP-Interstitial-V3
+   - Video-Collage-Interstitial-V3
+   - SM_PREVIEW_ACTION_I-V3
+   - SM_EDIT_I-V3
+   - SM_HOME_N-V3
+   - SM_PREVIEW_N-V3
+   - SM_PREVIEW_DIALOG_N-V3
+   - SM_EDIT_DIALOG_N-V3
+   - SM_SAVED_N-V3
+   - SM_EDIT_R-V3
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
@@ -94,6 +121,19 @@
 5. **_TG-1256_**: Added following events: `CouponRedeemAttempt`, `CouponRedeemSuccess`, `CouponRedeemFailed`
 6. **_TG-1258_**: Removed DP Download fallback to our server using API `/user/{username}`
 7. **_TG-1255_**: Removed CuratedStories
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.74         | 84           | [11 Jul 2023](#date-11-jul-2023)   |
+
+#### Date `11 Jul 2023`:
+1. **_TG-1253_**: Added Link Detection Popup
+2. **_TG-1257_**: Removed Microsoft Clarity
+3. Fixed Following Crashes:
+   - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/29df2534506d23de4cfe18777b221629?time=last-seven-days&versions=1.1.72%20(82)&sessionEventKey=64ABA414037900010CF2DB0882B87E1F_1832518177614354376)
+   - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/de22fe155c3e7feef69d3111f1ab7ad1?time=last-seven-days&versions=1.1.72%20(82)&sessionEventKey=64AD5E7500C4000211AAB48852EE63D3_1833004046999980879)
 
 ----------------------------------------------------------------------------------------------------------------------------
 

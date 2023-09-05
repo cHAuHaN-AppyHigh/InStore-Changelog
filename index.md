@@ -3,6 +3,37 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.83         | 93           | [23 Aug 2023](#date-23-aug-2023)   |
+
+#### Date `23 Aug 2023`:
+1. Added support for coupon_code copy to clipboard from notification
+2. Fixed UI of DP Downloader
+3. Updated local JS to support new DOM changes for post details page
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.81         | 91           | [21 Aug 2023](#date-21-aug-2023)   |
+
+#### Date `21 Aug 2023`:
+1. Updated PushSDK to v1.3.6-beta
+2. Removed CleverTap library as it was not being used
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.79         | 89           | [16 Aug 2023](#date-16-aug-2023)   |
+
+#### Date `16 Aug 2023`:
+> All changes done on [v1.1.78]
+1. Added price to Purchase CTA on IAP screen
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
 | 1   | Story Downloader   | 1.1.78         | 88           | [10 Aug 2023](#date-10-aug-2023)   |
 
 #### Date `10 Aug 2023`:
@@ -139,6 +170,19 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.74         | 84           | [11 Jul 2023](#date-11-jul-2023)   |
+
+#### Date `11 Jul 2023`:
+1. **_TG-1253_**: Added Link Detection Popup
+2. **_TG-1257_**: Removed Microsoft Clarity
+3. Fixed Following Crashes:
+   - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/29df2534506d23de4cfe18777b221629?time=last-seven-days&versions=1.1.72%20(82)&sessionEventKey=64ABA414037900010CF2DB0882B87E1F_1832518177614354376)
+   - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/de22fe155c3e7feef69d3111f1ab7ad1?time=last-seven-days&versions=1.1.72%20(82)&sessionEventKey=64AD5E7500C4000211AAB48852EE63D3_1833004046999980879)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
 | 1   | Story Downloader   | 1.1.72         | 82           | [04 Jul 2023](#date-04-jul-2023)   |
 
 #### Date `04 Jul 2023`:
@@ -240,22 +284,9 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                     |
 |:----|--------------------|----------------|--------------|----------------------------------|
-| 1   | Collage Maker Go   | 1.0.12         | 18           | [12 Jun 2023](#date-12-jun-2023) |
+| 1   | Collage Maker Go   | 1.0.12         | 18           | [14 Jun 2023](#date-14-jun-2023) |
 
-#### Date `13 Jun 2023`:
-1) **_TG-1184_**: Added following events: `QualityPopUpOpened`, `ScrapingAttempted`, `ScrapingDone`
-2) **_TG-1185_**: Changed flow of handling scraping success and failure
-3) **_TG-1186_**: Fixed following crashes:
-   - [Crash 1](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/e88c60f7020afab22731be13ee6d35e9?time=last-seven-days&versions=1.1.66%20(76)&sessionEventKey=64870D4501EF000117E5C8F6376044AF_1822215849610940782)
-   - [Crash 2](https://console.firebase.google.com/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/7417897f0b3e0dce3c4d8109683fee85?time=last-seven-days&versions=1.1.66%20(76)&sessionEventKey=64870A590111000111093D4DE6F2B478_1822216473448089696)
-
-----------------------------------------------------------------------------------------------------------------------------
-
-|     | App Flavor         | Latest Version | Version Code | Release Date                     |
-|:----|--------------------|----------------|--------------|----------------------------------|
-| 1   | Collage Maker Go   | 1.0.12         | 18           | [12 Jun 2023](#date-12-jun-2023) |
-
-#### Date `12 Jun 2023`:
+#### Date `14 Jun 2023`:
 1. **_TG-1183_**: Pushed a new build for collage clone with ads disabled
 
 ----------------------------------------------------------------------------------------------------------------------------

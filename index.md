@@ -3,10 +3,42 @@
 
 |     | App Flavor         | Latest Version | Version Code | Release Date                       |
 |:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | Story Downloader   | 1.1.84         | 94           | [17 Oct 2023](#date-17-oct-2023)   |
+
+#### Date `17 Oct 2023`:
+1. Fixed crashes from [InStore v2.1.68](#date-15-sep-2023):
+    - [Crash 1](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/3a46f18d28ccf9dcac6510eb9232fac1?time=last-thirty-days&versions=2.1.68%20(228)&types=crash&sessionEventKey=652E227D002900012960A83B02C72CAB_1869248480270302245)
+    - [Crash 2](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/4e0146000a378bec96f2ec5d3cfdc815?time=last-thirty-days&versions=2.1.68%20(228)&types=crash&sessionEventKey=652E22B901ED00017E62CC8FC1511785_1869248854110327513)
+    - [Crash 3](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/1fdbc712993f03f4c2f72e90c4a85dd2?time=last-thirty-days&versions=2.1.68%20(228)&types=crash&sessionEventKey=652E1581024F00011CC4F990A23C0734_1869234125420544836)
+    - [Crash 4](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/16b0e2fd88554f25b7bad1a0de722181?time=last-thirty-days&versions=2.1.68%20(228)&types=crash&sessionEventKey=652E1958027F000110A908EB2158CF27_1869238324494175404)
+    - [Crash 5](https://console.firebase.google.com/u/0/project/insta-photo-downloader-5e0a0/crashlytics/app/android:instagram.photo.video.downloader.insta.repost/issues/7a1d150d7fba065fcb84931fe35fbccd?time=last-thirty-days&versions=2.1.68%20(228)&types=crash&sessionEventKey=652E071E020A0001060AAA7B4547ADC2_1869223597322907033)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
+| 1   | InStore            | 2.1.68         | 228          | [15 Sep 2023](#date-15-sep-2023)   |
+
+#### Date `15 Sep 2023`:
+
+1. **_TG-1289_**: Added property `FrameId` to events `DPShared` & `DPCreated`
+2. **_TG-1286_**: Added support for adding new frames to dp creator via remote config
+3. **_TG-1284_**: Sticky notification bar for android 6 moved to remote config
+4. **_TG-1287_**: Added following Notifications events: `NotificationReceived`, `NotificationOpened`
+5. Migrated to new `PushNotificationSDK:1.0.0`
+6. **_TG-1283_**: Fixed Following Crashes:
+   - [Crash 1](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/0055b5565d49825afb5c19d78ab58fd4?time=last-seven-days&versions=1.1.83%20(93)&types=crash&sessionEventKey=64EC8ACE014D000173E000B75632FC61_1850785804729306434)
+   - [Crash 2](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/d2a0175510dcbccb132662012f183223?time=last-seven-days&versions=1.1.83%20(93)&types=crash&sessionEventKey=64EC8AC8018E00016B0967D38898461C_1850785787882269889)
+   - [Crash 3](https://console.firebase.google.com/u/2/project/insta-photo-downloader-5e0a0/crashlytics/app/android:story.reels.downloader.video/issues/c0b7ade3b63f9727a9e4658fa1f1912a?time=last-seven-days&versions=1.1.83%20(93)&types=crash&sessionEventKey=64EC876F006C000179A383A0BF1F80BD_1850782462048310876)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+|     | App Flavor         | Latest Version | Version Code | Release Date                       |
+|:----|--------------------|----------------|--------------|------------------------------------|
 | 1   | Story Downloader   | 1.1.83         | 93           | [23 Aug 2023](#date-23-aug-2023)   |
 
 #### Date `23 Aug 2023`:
-1. Added support for coupon_code copy to clipboard from notification
+1. Added support for `coupon_code` copy to clipboard from notification
 2. Fixed UI of DP Downloader
 3. Updated local JS to support new DOM changes for post details page
 
